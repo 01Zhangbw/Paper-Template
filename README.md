@@ -2,6 +2,8 @@
 
 CCF-DDL：[ccf-deadlines (ccfddl.github.io)](https://ccfddl.github.io/)
 
+AAAI2025的模板：[AAAI Press Anonymous SubmissionInstructions for Authors Using LaTeX - Online LaTeX Editor Overleaf](https://www.overleaf.com/project/667ecc6b469c606dbc2bed7b)
+
 | Conference | Submission deadline | Conference link                                              | Writing link                                                 |
 | ---------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | IJCAI      | 1.10                | https://ijcai24.org/call-for-papers/                         | [IJCAI--24 Formatting Instructions - Online LaTeX Editor Overleaf](https://www.overleaf.com/project/66458ff0f68eaf3eeda55655) |
