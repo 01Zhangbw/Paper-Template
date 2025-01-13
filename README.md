@@ -13,6 +13,7 @@ CCF-DDL：[ccf-deadlines (ccfddl.github.io)](https://ccfddl.github.io/)
 | ACL         | 2.16                | https://2025.aclweb.org/                                     |                                                              |
 | ECML-PKDD   | 3.15                | https://ecmlpkdd.org/                                        | [Recent Advances in Underwater Basket Weaving Under the Extreme Pressure of the Mariana Trench - Online LaTeX Editor Overleaf](https://www.overleaf.com/project/6645911ab6e3cfb645b02c21) |
 | ACMMM       | 4.13                | https://acmmm2025.org/                                       |                                                              |
+| ECAI        | 5.6                 | https://ecai2025.org/call-for-papers/                        |                                                              |
 | NeurIPS     | 5.22                | https://neurips.cc/                                          | [Formatting Instructions For NeurIPS 2024 - Online LaTeX Editor Overleaf](https://www.overleaf.com/project/660ce5c50622ec933e58ca37) |
 | ACML        | 6.26                | https://www.acml-conf.org/                                   | [Short Title - Online LaTeX Editor Overleaf](https://www.overleaf.com/project/6644d436a793e3ac27c5320d) |
 | SIGKDD      | 8.9                 | https://www.kdd.org/                                         | https://www.overleaf.com/project/6645739a4e8236a874abc1af    |
